@@ -20,6 +20,8 @@ Although, it is important to note that the KeyListener implemented throws a few 
 # How to Run
 Make sure you have Java Development Kit (JDK) installed on your system.
 
+The class does not have a 'Main()' method, so make sure to create an instance in your own main method to execute
+
 Clone this repository:
   - https://github.com/Karabo-Mathibela/Simple-Java-Calculator.git
 
